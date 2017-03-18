@@ -63,14 +63,7 @@ public class Quiver_Plot implements PlugInFilter {
     }
   
     void showAbout() {
-    IJ.showMessage("Hough Circle Transform v1.0.0",
-                   "This plugin performs a Hough circle transform \n" +
-                   "on an image or stack.  Hough circle transforms\n" +
-                   "can be used to find the centroid and radius of\n" +
-                   "circles embedded in complex images.  This plugin\n"+
-                   "was inspired by the transform implementation\n"+
-                   "of Hemerson Pistori (pistori@ec.ucdb.br)"
-                  );
+    IJ.showMessage("This plugin creates a quiver plot from a 32-bit angle image and a 32-bit magnitude image.");
     }
     //Initialize a GUI to allow for importing the names of the two windows
     //NOTE: GUI was modified from recorded GUI construction in NetBeans using JFrame Form

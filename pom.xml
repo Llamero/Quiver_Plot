@@ -78,8 +78,8 @@
 	</ciManagement>
 
 	<properties>
-		<main-class>Hough_Circle</main-class>
-                <package-name>Local_Hough_Cirlce_Transform.jar</package-name>
+		<main-class>Quiver_Plot</main-class>
+                <package-name>Quiver_Plot.jar</package-name>
 		<license.licenseName>GNU_3</license.licenseName>
 		<license.copyrightOwners>University of California, Berkeley</license.copyrightOwners>
 	</properties>
