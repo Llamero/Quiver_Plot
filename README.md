@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-This plugin uses a Hough Circle Transform to find and track circles embedded within an image.  Gor more information, read the wiki article here: https://imagej.net/Hough_Circle_Transform
-=======
-Quiver Plot
->>>>>>> origin/master
+
+This plugin generates a quiver plot from a 32-bit angle image (in degrees) and a 32-bit vector length image.  Gor more information, read the wiki article here: https://imagej.net/Quiver_Plot
+
+
